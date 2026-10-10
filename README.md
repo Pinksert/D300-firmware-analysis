@@ -24,8 +24,8 @@
 ## 相关
 
 - B 站专栏系列：[AI 把尼康 D300 的官方固件拆开了：7MB 全是明文，一点加密都没有](https://www.bilibili.com/opus/1257497777850548249)
-
 - D300S 下篇 · 加密固件解析：<https://www.bilibili.com/opus/1257549137054793745>（对应仓库：<https://github.com/Pinksert/D300S-firmware-analysis>）
+
 ## 免责声明
 
 本仓库内容仅供学习与研究使用。固件版权归尼康（Nikon）所有，请勿用于任何商业或侵权行为。
